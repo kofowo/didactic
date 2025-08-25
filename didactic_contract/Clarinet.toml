@@ -19,6 +19,11 @@ epoch = 2.5
 path = 'contracts/storage_with_admin_role.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.voting_with_multiple_role]
+path = 'contracts/voting_with_multiple_role.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
