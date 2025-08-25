@@ -10,6 +10,11 @@ path = 'contracts/access_logs.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.deposit_bonus_wallet]
+path = 'contracts/deposit_bonus_wallet.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.identity]
 path = 'contracts/identity.clar'
 clarity_version = 2
