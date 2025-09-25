@@ -20,6 +20,11 @@ path = 'contracts/identity.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.multi_send_with_gas_limit_per_transfer]
+path = 'contracts/multi_send_with_gas_limit_per_transfer.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.storage_with_admin_role]
 path = 'contracts/storage_with_admin_role.clar'
 clarity_version = 2
